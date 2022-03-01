@@ -13,8 +13,8 @@
   "textExample": "A person should not drive a car after he or she has been drinking <b>alcohol</b>.",
   "transcription": "[ǽlkəhɔ̀ːl]",
   "__v": 0,
-  "textExampleTranslate": "Человек не должен водить машину после того, как он выпил алкоголь",
-  "textMeaningTranslate": "Алкоголь - это тип напитка, который может сделать людей пьяными",
+  "textExampleTranslate": "Человек не должен садиться за руль, если он употребил алкоголь",
+  "textMeaningTranslate": "Алкоголь - это напиток, от которого люди пьянеют",
   "wordTranslate": "алкоголь"
 },{
   "_id": {
@@ -51,7 +51,7 @@
   "__v": 0,
   "textExampleTranslate": "Студенты согласны, что у них слишком много домашней работы",
   "textMeaningTranslate": "Согласиться - значит иметь то же мнение или убеждение, что и другой человек",
-  "wordTranslate": "согласна"
+  "wordTranslate": "соглашаться"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4a3"
@@ -69,7 +69,7 @@
   "__v": 0,
   "textExampleTranslate": "Они прибыли в школу в 7 часов утра",
   "textMeaningTranslate": "Приехать значит попасть куда-то",
-  "wordTranslate": "прибыть"
+  "wordTranslate": "прибывать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4a4"
@@ -157,9 +157,9 @@
   "textExample": "Did you <b>catch</b> the ball during the baseball game?",
   "transcription": "[kætʃ]",
   "__v": 0,
-  "textExampleTranslate": "Вы поймали мяч во время игры в бейсбол?",
-  "textMeaningTranslate": "Поймать - значит схватить или получить что-то",
-  "wordTranslate": "поймать"
+  "textExampleTranslate": "Вы словили мяч во время игры в бейсбол?",
+  "textMeaningTranslate": "Ловить - значит пытаться схватить или получить что-то",
+  "wordTranslate": "ловить"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4a9"
@@ -176,7 +176,7 @@
   "transcription": "[dʌk]",
   "__v": 0,
   "textExampleTranslate": "Люди кормят уток у озера",
-  "textMeaningTranslate": "Утка - маленькая водяная птица",
+  "textMeaningTranslate": "Утка - небольшая водоплавающая птица",
   "wordTranslate": "утка"
 },{
   "_id": {
@@ -212,8 +212,8 @@
   "transcription": "[inváit]",
   "__v": 0,
   "textExampleTranslate": "Я приглашаю своих друзей на мой день рождения",
-  "textMeaningTranslate": "Пригласить - это попросить кого-нибудь прийти на место или событие",
-  "wordTranslate": "пригласить"
+  "textMeaningTranslate": "Приглашать - это значит просить кого-нибудь прийти на место или событие",
+  "wordTranslate": "приглашать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4ac"
@@ -265,9 +265,9 @@
   "textExample": "I <b>love</b> my family very much.",
   "transcription": "[lʌv]",
   "__v": 0,
-  "textExampleTranslate": "Я очень люблю свою семью",
-  "textMeaningTranslate": "Любить значит любить что-то или кого-то много",
-  "wordTranslate": "любовь"
+  "textExampleTranslate": "Я обожаю свою семью",
+  "textMeaningTranslate": "Обожать значит очень сильно любить что-то или кого-то",
+  "wordTranslate": "обожать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4af"
@@ -302,8 +302,8 @@
   "transcription": "[vízit]",
   "__v": 0,
   "textExampleTranslate": "Она хочет навестить свою бабушку",
-  "textMeaningTranslate": "Посетить - значит пойти и провести время в другом месте или увидеть другого человека",
-  "wordTranslate": "посещение"
+  "textMeaningTranslate": "Посещать - значит пойти и провести время в другом месте или увидеть другого человека",
+  "wordTranslate": "посещать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b1"
@@ -355,8 +355,8 @@
   "textExample": "Riding in the rough water was an <b>adventure</b>.",
   "transcription": "[ədvéntʃər]",
   "__v": 0,
-  "textExampleTranslate": "Езда в бурной воде была приключением",
-  "textMeaningTranslate": "Приключение - это забавная или захватывающая вещь, которую ты делаешь",
+  "textExampleTranslate": "Сплав по бурной воде была приключением",
+  "textMeaningTranslate": "Приключение - это забавное или захватывающее занятие, которым ты занят",
   "wordTranslate": "приключение"
 },{
   "_id": {
@@ -392,8 +392,8 @@
   "transcription": "[əpróutʃ]",
   "__v": 0,
   "textExampleTranslate": "Мальчик приблизился к своей школе",
-  "textMeaningTranslate": "Подойти к чему-то - значит приблизиться к нему",
-  "wordTranslate": "подходить"
+  "textMeaningTranslate": "Приближаться к чему-то - значит становиться ближе",
+  "wordTranslate": "приближаться"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b6"
@@ -409,9 +409,9 @@
   "textExample": "The scientist mixed the <b>chemicals</b>.",
   "transcription": "[kémikəl]",
   "__v": 0,
-  "textExampleTranslate": "Ученый смешал химикаты",
-  "textMeaningTranslate": "Химическое вещество - это то, что ученые используют в химии",
-  "wordTranslate": "химический"
+  "textExampleTranslate": "Ученый смешал химические реактивы",
+  "textMeaningTranslate": "Химический реактив - это то, что используют химики",
+  "wordTranslate": "химический реактив"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b7"
@@ -429,7 +429,7 @@
   "__v": 0,
   "textExampleTranslate": "Малыш осторожно спускался по лестнице",
   "textMeaningTranslate": "Осторожно означает с большим вниманием, особенно к деталям или безопасности",
-  "wordTranslate": "внимательно"
+  "wordTranslate": "осторожно"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b8"
@@ -445,9 +445,9 @@
   "textExample": "She <b>created</b> an igloo from blocks of snow.",
   "transcription": "[kriéit]",
   "__v": 0,
-  "textExampleTranslate": "Она создала иглу из снежных глыб",
-  "textMeaningTranslate": "Создать значит создать что-то новое",
-  "wordTranslate": "создайте"
+  "textExampleTranslate": "Она создала иглу из снежных блоков",
+  "textMeaningTranslate": "Создавать значит создать что-то новое",
+  "wordTranslate": "создавать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4b9"
@@ -465,7 +465,7 @@
   "__v": 0,
   "textExampleTranslate": "Они почувствовали странное злое присутствие, когда приблизились к дому",
   "textMeaningTranslate": "Зло описывает что-то или кого-то плохого или жестокого, а не хорошего",
-  "wordTranslate": "злой"
+  "wordTranslate": "зло"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4ba"
@@ -481,7 +481,7 @@
   "textExample": "The student did an <b>experiment</b> in science class.",
   "transcription": "[ikspérəmənt]",
   "__v": 0,
-  "textExampleTranslate": "Студент сделал эксперимент в классе науки",
+  "textExampleTranslate": "Студент выполнил эксперимент в научном классе",
   "textMeaningTranslate": "Эксперимент - это тест, который вы проводите, чтобы увидеть, что произойдет",
   "wordTranslate": "эксперимент"
 },{
@@ -518,8 +518,8 @@
   "transcription": "[kil]",
   "__v": 0,
   "textExampleTranslate": "Я убил муху",
-  "textMeaningTranslate": "Убить кого-то или что-то значит заставить их умереть",
-  "wordTranslate": "убийство"
+  "textMeaningTranslate": "Убивать кого-то или что-то значит заставить их умереть",
+  "wordTranslate": "убивать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4bd"
@@ -536,7 +536,7 @@
   "transcription": "[læf]",
   "__v": 0,
   "textExampleTranslate": "Звук ее смеха заполнил комнату",
-  "textMeaningTranslate": "Смех - это звук, который звучит, когда кто-то счастлив или происходит смешная вещь",
+  "textMeaningTranslate": "Смех - это звук, который можно услышать, когда кто-то счастлив или происходит смешная вещь",
   "wordTranslate": "смех"
 },{
   "_id": {
@@ -573,7 +573,7 @@
   "__v": 0,
   "textExampleTranslate": "Мальчик стал нервным, когда услышал новости",
   "textMeaningTranslate": "Когда человек нервничает, он думает, что случится что-то плохое",
-  "wordTranslate": "нервная"
+  "wordTranslate": "нервный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4c0"
@@ -608,8 +608,8 @@
   "transcription": "[skɛəːr]",
   "__v": 0,
   "textExampleTranslate": "Мой дядя испугался увиденного в комнате",
-  "textMeaningTranslate": "Напугать кого-то - значит заставить его бояться",
-  "wordTranslate": "попугать"
+  "textMeaningTranslate": "Пугать кого-то - значит заставить его бояться",
+  "wordTranslate": "пугать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4c2"
@@ -625,7 +625,7 @@
   "textExample": "His afternoon work <b>project</b> was to paint the room green.",
   "transcription": "[prάdʒekt]",
   "__v": 0,
-  "textExampleTranslate": "Его дневной рабочий проект должен был покрасить комнату в зеленый цвет",
+  "textExampleTranslate": "Согласно его проекту, после обеда он должен был покрасить стены комнаты в зеленый цвет",
   "textMeaningTranslate": "Проект - это вид работы, которую вы делаете для школы или работы",
   "wordTranslate": "проект"
 },{
@@ -680,8 +680,8 @@
   "transcription": "[smel]",
   "__v": 0,
   "textExampleTranslate": "Два друга понюхали цветок",
-  "textMeaningTranslate": "Обонять что-то значит использовать свой нос, чтобы почувствовать это",
-  "wordTranslate": "запах"
+  "textMeaningTranslate": "Нюхать что-то значит использовать свой нос, чтобы почувствовать это",
+  "wordTranslate": "нюхать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4c6"
@@ -715,8 +715,8 @@
   "textExample": "Business was <b>worse</b> this month than last month.",
   "transcription": "[wəːrs]",
   "__v": 0,
-  "textExampleTranslate": "Бизнес был хуже в этом месяце, чем в прошлом месяце",
-  "textMeaningTranslate": "Если что-то хуже, это хуже, чем что-то другое",
+  "textExampleTranslate": "В этом месяце дела шли хуже, чем в прошлом",
+  "textMeaningTranslate": "Если что-то хуже, это худшего качества, чем что-то другое",
   "wordTranslate": "хуже"
 },{
   "_id": {
