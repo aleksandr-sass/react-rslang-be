@@ -769,7 +769,7 @@
   "textExample": "We used a <b>chart</b> to see how we had improved.",
   "transcription": "[tʃɑːrt]",
   "__v": 0,
-  "textExampleTranslate": "Мы использовали диаграмму, чтобы увидеть, как мы улучшились",
+  "textExampleTranslate": "Мы использовали диаграмму, чтобы увидеть: насколько наши показатели стали лучше",
   "textMeaningTranslate": "Диаграмма - это список информации",
   "wordTranslate": "диаграмма"
 },{
@@ -824,7 +824,7 @@
   "transcription": "[évər]",
   "__v": 0,
   "textExampleTranslate": "Кататься на лыжах прошлой зимой было самым веселым из всего, чем я когда-либо занимался",
-  "textMeaningTranslate": "Всегда означает в любое время",
+  "textMeaningTranslate": "Когда-либо означает в любое время",
   "wordTranslate": "когда-либо"
 },{
   "_id": {
@@ -1291,7 +1291,7 @@
   "textExample": "He spent all his money. There is <b>none</b> left.",
   "transcription": "[nʌn]",
   "__v": 0,
-  "textExampleTranslate": "Он потратил все свои деньги. Там нисколько не осталось",
+  "textExampleTranslate": "Он потратил все свои деньги. Нисколько не осталось",
   "textMeaningTranslate": "Нисколько означает ничего",
   "wordTranslate": "нисколько"
 },{
@@ -1400,7 +1400,7 @@
   "transcription": "[spred]",
   "__v": 0,
   "textExampleTranslate": "Мне нравится намазывать масло на тост",
-  "textMeaningTranslate": "Распространять означает охватывать большую площадь",
+  "textMeaningTranslate": "Распространяться означает выходить для охвата большей площади",
   "wordTranslate": "распространять"
 },{
   "_id": {
@@ -1436,7 +1436,7 @@
   "transcription": "[vílidʒ]",
   "__v": 0,
   "textExampleTranslate": "В моей деревне всего несколько домов",
-  "textMeaningTranslate": "Деревня очень маленький населенный пункт",
+  "textMeaningTranslate": "Деревня - это очень маленький населенный пункт",
   "wordTranslate": "деревня"
 },{
   "_id": {
