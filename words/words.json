@@ -355,7 +355,7 @@
   "textExample": "Riding in the rough water was an <b>adventure</b>.",
   "transcription": "[ədvéntʃər]",
   "__v": 0,
-  "textExampleTranslate": "Сплав по бурной воде была приключением",
+  "textExampleTranslate": "Сплав по бурной воде был приключением",
   "textMeaningTranslate": "Приключение - это забавное или захватывающее занятие, которым ты занят",
   "wordTranslate": "приключение"
 },{
@@ -733,7 +733,7 @@
   "textExample": "The <b>alien</b> came in peace.",
   "transcription": "[éiljən]",
   "__v": 0,
-  "textExampleTranslate": "пришелец пришел с миром",
+  "textExampleTranslate": "Инопланетянин пришел с миром",
   "textMeaningTranslate": "Инопланетянин - это существо из другого мира",
   "wordTranslate": "инопланетянин"
 },{
@@ -769,7 +769,7 @@
   "textExample": "We used a <b>chart</b> to see how we had improved.",
   "transcription": "[tʃɑːrt]",
   "__v": 0,
-  "textExampleTranslate": "Мы использовали график, чтобы увидеть, как мы улучшили",
+  "textExampleTranslate": "Мы использовали диаграмму, чтобы увидеть, как мы улучшились",
   "textMeaningTranslate": "Диаграмма - это список информации",
   "wordTranslate": "диаграмма"
 },{
@@ -806,8 +806,8 @@
   "transcription": "[diskráib]",
   "__v": 0,
   "textExampleTranslate": "Они описали свое дерево как красочное, с золотой лентой и звездой",
-  "textMeaningTranslate": "Описать - это сказать или написать, на что похож кто-то или что-то",
-  "wordTranslate": "описать"
+  "textMeaningTranslate": "Описывать - это значит сказать или написать, на что похож кто-то или что-то",
+  "wordTranslate": "описывать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4cd"
@@ -823,7 +823,7 @@
   "textExample": "Going skiing last winter was the most fun I’ve <b>ever</b> had.",
   "transcription": "[évər]",
   "__v": 0,
-  "textExampleTranslate": "Кататься на лыжах прошлой зимой было самым веселым из всего, что я когда-либо ел",
+  "textExampleTranslate": "Кататься на лыжах прошлой зимой было самым веселым из всего, чем я когда-либо занимался",
   "textMeaningTranslate": "Всегда означает в любое время",
   "wordTranslate": "когда-либо"
 },{
@@ -841,9 +841,9 @@
   "textExample": "Since he <b>failed</b> to get the job, he was sad.",
   "transcription": "[feil]",
   "__v": 0,
-  "textExampleTranslate": "Так как он не смог получить работу, ему было грустно",
-  "textMeaningTranslate": "Неудача означает, что вам не удается то, что вы пытаетесь сделать",
-  "wordTranslate": "потерпеть поражение"
+  "textExampleTranslate": "Так как ему не удалось устроиться на работу, он чувствовал себя несчастным",
+  "textMeaningTranslate": "Потерпеть неудачу означает то, что вам не удалось то, что вы пытались сделать",
+  "wordTranslate": "потерпеть неудачу"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4cf"
@@ -859,9 +859,9 @@
   "textExample": "I managed to get good <b>grades</b> on my report card.",
   "transcription": "[greid]",
   "__v": 0,
-  "textExampleTranslate": "Мне удалось получить хорошие оценки на моем табеле",
-  "textMeaningTranslate": "Оценка - это оценка или оценка, присвоенная чьей-либо работе",
-  "wordTranslate": "класс"
+  "textExampleTranslate": "Мне удалось получить хорошие отметки в табеле успеваемости",
+  "textMeaningTranslate": "Отметка - это балл или оценка, присвоенная чьей-либо работе",
+  "wordTranslate": "отметка"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4d0"
@@ -878,7 +878,7 @@
   "transcription": "[instéd]",
   "__v": 0,
   "textExampleTranslate": "Он съел морковку вместо мороженого",
-  "textMeaningTranslate": "Вместо означает вместо",
+  "textMeaningTranslate": "Вместо означает взамен чего-то",
   "wordTranslate": "вместо"
 },{
   "_id": {
@@ -895,7 +895,7 @@
   "textExample": "The <b>library</b> at school is full of books.",
   "transcription": "[láibrèri]",
   "__v": 0,
-  "textExampleTranslate": "Библиотека в школе полна книг",
+  "textExampleTranslate": "Школьная библиотека полна книг",
   "textMeaningTranslate": "Библиотека - это место, куда вы ходите читать книги",
   "wordTranslate": "библиотека"
 },{
@@ -931,8 +931,8 @@
   "textExample": "Saturn is the <b>planet</b> with the ring around it.",
   "transcription": "[plǽnət]",
   "__v": 0,
-  "textExampleTranslate": "Сатурн - планета с кольцом вокруг него",
-  "textMeaningTranslate": "Планета - это большая круглая вещь в космосе",
+  "textExampleTranslate": "Сатурн - планета с кольцом, окружающим её",
+  "textMeaningTranslate": "Планета - это большой круглый объект в космосе",
   "wordTranslate": "планета"
 },{
   "_id": {
@@ -967,7 +967,7 @@
   "textExample": "He had to read <b>several</b> books for class.",
   "transcription": "[sévərəl]",
   "__v": 0,
-  "textExampleTranslate": "Он должен был прочитать несколько книг для класса",
+  "textExampleTranslate": "Он должен был прочитать несколько книг, чтобы подготовиться к занятию",
   "textMeaningTranslate": "Несколько больше двух, но не много",
   "wordTranslate": "несколько"
 },{
@@ -1003,8 +1003,8 @@
   "textExample": "All the students could easily <b>solve</b> the math problem.",
   "transcription": "[sɑlv]",
   "__v": 0,
-  "textExampleTranslate": "Все ученики могли легко решить математическую задачу",
-  "textMeaningTranslate": "Решить что-то - значит найти ответ",
+  "textExampleTranslate": "Все ученики легко могли решить математическую задачу",
+  "textMeaningTranslate": "Решать что-то - значит искать ответ",
   "wordTranslate": "решать"
 },{
   "_id": {
@@ -1040,8 +1040,8 @@
   "transcription": "[səpóuz]",
   "__v": 0,
   "textExampleTranslate": "Полагаю, мне пора домой",
-  "textMeaningTranslate": "Предположить, значит угадать",
-  "wordTranslate": "предположим"
+  "textMeaningTranslate": "Предполагать, значит угадывать",
+  "wordTranslate": "предполагать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4da"
@@ -1058,8 +1058,8 @@
   "transcription": "[Λndərstǽnd]",
   "__v": 0,
   "textExampleTranslate": "Генри не мог понять сообщение",
-  "textMeaningTranslate": "Чтобы понять что-то, нужно знать, что это значит",
-  "wordTranslate": "понимаю"
+  "textMeaningTranslate": "Чтобы понимать что-то, нужно знать смысл этого",
+  "wordTranslate": "понимать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4db"
@@ -1075,9 +1075,9 @@
   "textExample": "Michael likes to <b>view</b> himself in the mirror.",
   "transcription": "[vjuː]",
   "__v": 0,
-  "textExampleTranslate": "Михаилу нравится видеть себя в зеркале",
-  "textMeaningTranslate": "Смотреть - значит смотреть на что-то",
-  "wordTranslate": "посмотреть"
+  "textExampleTranslate": "Майклу нравится смотреть на себя в зеркале",
+  "textMeaningTranslate": "Смотреть - значит обозревать что-то",
+  "wordTranslate": "смотреть"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4dc"
@@ -1093,9 +1093,9 @@
   "textExample": "It’s <b>appropriate</b> to wear a suit when you go to the office.",
   "transcription": "[əpróuprièit]",
   "__v": 0,
-  "textExampleTranslate": "Уместно носить костюм, когда вы идете в офис",
-  "textMeaningTranslate": "Когда вещь уместна, она правильная или нормальная",
-  "wordTranslate": "подходящее"
+  "textExampleTranslate": "Если вы идете в офис, то Вам следует надеть костюм",
+  "textMeaningTranslate": "Когда что-то является подходящим, то это правильно или нормально",
+  "wordTranslate": "подходящий"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4dd"
@@ -1112,7 +1112,7 @@
   "transcription": "[əvɔ́id]",
   "__v": 0,
   "textExampleTranslate": "Избегайте разбитой бутылки на полу",
-  "textMeaningTranslate": "Избегать чего-либо - значит держаться подальше от этого",
+  "textMeaningTranslate": "Избегать чего-либо - значит держаться подальше",
   "wordTranslate": "избегать"
 },{
   "_id": {
@@ -1185,7 +1185,7 @@
   "__v": 0,
   "textExampleTranslate": "Ребенок выглядел очень довольным, сидя на полу",
   "textMeaningTranslate": "Быть довольным значит быть счастливым и не хотеть большего",
-  "wordTranslate": "содержание"
+  "wordTranslate": "довольный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4e2"
@@ -1220,7 +1220,7 @@
   "transcription": "[fríːkwəntli]",
   "__v": 0,
   "textExampleTranslate": "Мы часто встречаемся, либо в начале, либо в конце недели",
-  "textMeaningTranslate": "Когда что-то случается часто, это случается часто",
+  "textMeaningTranslate": "Когда что-то случается часто, это случается много раз",
   "wordTranslate": "часто"
 },{
   "_id": {
@@ -1255,9 +1255,9 @@
   "textExample": "My teacher <b>instructs</b> us in several subjects.",
   "transcription": "[instrʌ́kt]",
   "__v": 0,
-  "textExampleTranslate": "Мой учитель учит нас нескольким предметам",
+  "textExampleTranslate": "Мой учитель обучает нас нескольким предметам",
   "textMeaningTranslate": "Обучать - значит учить",
-  "wordTranslate": "инструктирует"
+  "wordTranslate": "обучать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4e6"
@@ -1291,9 +1291,9 @@
   "textExample": "He spent all his money. There is <b>none</b> left.",
   "transcription": "[nʌn]",
   "__v": 0,
-  "textExampleTranslate": "Он потратил все свои деньги. Там ничего не осталось",
-  "textMeaningTranslate": "Никто не означает не что-то",
-  "wordTranslate": "никто"
+  "textExampleTranslate": "Он потратил все свои деньги. Там нисколько не осталось",
+  "textMeaningTranslate": "Нисколько означает ничего",
+  "wordTranslate": "нисколько"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4e8"
@@ -1309,9 +1309,9 @@
   "textExample": "I had to be <b>patient</b> and wait until 5 o’clock to leave.",
   "transcription": "[péiʃənt]",
   "__v": 0,
-  "textExampleTranslate": "Я должен был быть терпеливым и ждать, пока 5 часов, чтобы уйти",
+  "textExampleTranslate": "Я должен был проявить терпение и ждать, пока не наступит 5 часов, чтобы пойти домой",
   "textMeaningTranslate": "Если люди терпеливы, они не сердятся и не расстраиваются",
-  "wordTranslate": "пациент"
+  "wordTranslate": "терпеливый"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4e9"
@@ -1328,7 +1328,7 @@
   "transcription": "[pɑ́zətiv]",
   "__v": 0,
   "textExampleTranslate": "У нее впереди хорошее будущее после окончания колледжа",
-  "textMeaningTranslate": "Если что-то положительное, это хорошо",
+  "textMeaningTranslate": "Если что-то позитивное, это хорошо",
   "wordTranslate": "позитивный"
 },{
   "_id": {
@@ -1346,8 +1346,8 @@
   "transcription": "[pʌ́niʃ]",
   "__v": 0,
   "textExampleTranslate": "Чтобы наказать меня, мой учитель заставил меня встать в углу",
-  "textMeaningTranslate": "Наказать значит заставить кого-то страдать за нарушение правил или законов",
-  "wordTranslate": "наказать"
+  "textMeaningTranslate": "Наказывать значит заставить кого-то страдать за нарушение правил или законов",
+  "wordTranslate": "наказывать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4eb"
@@ -1363,7 +1363,7 @@
   "textExample": "My lawyer will <b>represent</b> me in court.",
   "transcription": "[rèprizént]",
   "__v": 0,
-  "textExampleTranslate": "Мой адвокат будет представлять меня в суде",
+  "textExampleTranslate": "Мой адвокат будет представлять мои интересы в суде",
   "textMeaningTranslate": "Представлять - значит говорить или действовать от лица или группы",
   "wordTranslate": "представлять"
 },{
@@ -1399,9 +1399,9 @@
   "textExample": "I like to <b>spread</b> butter on my toast.",
   "transcription": "[spred]",
   "__v": 0,
-  "textExampleTranslate": "Мне нравится разливать масло по моему тосту",
-  "textMeaningTranslate": "Распространение означает выход на большую площадь",
-  "wordTranslate": "распространение"
+  "textExampleTranslate": "Мне нравится намазывать масло на тост",
+  "textMeaningTranslate": "Распространять означает охватывать большую площадь",
+  "wordTranslate": "распространять"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4ee"
@@ -1419,7 +1419,7 @@
   "__v": 0,
   "textExampleTranslate": "Сегодня мы с собакой прогулялись по парку",
   "textMeaningTranslate": "Гулять значит ходить медленно и спокойно",
-  "wordTranslate": "прогулка"
+  "wordTranslate": "гулять"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4ef"
@@ -1436,7 +1436,7 @@
   "transcription": "[vílidʒ]",
   "__v": 0,
   "textExampleTranslate": "В моей деревне всего несколько домов",
-  "textMeaningTranslate": "Деревня очень маленький город",
+  "textMeaningTranslate": "Деревня очень маленький населенный пункт",
   "wordTranslate": "деревня"
 },{
   "_id": {
