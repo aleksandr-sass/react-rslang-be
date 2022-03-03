@@ -1544,7 +1544,7 @@
   "transcription": "[baik]",
   "__v": 0,
   "textExampleTranslate": "Он ездит на велосипеде в школу каждый день",
-  "textMeaningTranslate": "Велосипед - это автомобиль с двумя колесами, приводимый в движение человеком",
+  "textMeaningTranslate": "Велосипед - это двухколесное транспортное средство, приводимое в движение мускульной силой человека",
   "wordTranslate": "велосипед"
 },{
   "_id": {
@@ -1562,7 +1562,7 @@
   "transcription": "[tʃuːz]",
   "__v": 0,
   "textExampleTranslate": "Мне нужно выбирать между занятиями искусством и занятиями спортом",
-  "textMeaningTranslate": "Выбрать - это выбрать что-то или принять решение",
+  "textMeaningTranslate": "Выбирать - это выбрать что-то или принять решение",
   "wordTranslate": "выбирать"
 },{
   "_id": {
@@ -1598,8 +1598,8 @@
   "transcription": "[djúəriŋ]",
   "__v": 0,
   "textExampleTranslate": "Ты спал во время фильма?",
-  "textMeaningTranslate": "Во время события означает, что событие происходило",
-  "wordTranslate": "в течение"
+  "textMeaningTranslate": "Во время события подразумевает тот период времени, в который событие происходило",
+  "wordTranslate": "во время"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4f9"
@@ -1616,7 +1616,7 @@
   "transcription": "[fʊtbɒːl]",
   "__v": 0,
   "textExampleTranslate": "Футбол - популярный вид спорта в Соединенных Штатах",
-  "textMeaningTranslate": "Футбол - это спорт с одиннадцатью членами и мячом овальной формы",
+  "textMeaningTranslate": "Футбол - это спорт, в котором команды численностью одиннадцать человек играют мячом овальной формы",
   "wordTranslate": "футбол"
 },{
   "_id": {
@@ -1652,7 +1652,7 @@
   "transcription": "[geim]",
   "__v": 0,
   "textExampleTranslate": "Давай поиграем в настольную игру сегодня вечером",
-  "textMeaningTranslate": "Игра - это игра, в которой люди соревнуются друг с другом",
+  "textMeaningTranslate": "Игра - это мероприятие, в котором люди соревнуются друг с другом",
   "wordTranslate": "игра"
 },{
   "_id": {
@@ -1687,8 +1687,8 @@
   "textExample": "People play <b>golf</b> in nice weather.",
   "transcription": "[galf]",
   "__v": 0,
-  "textExampleTranslate": "Люди играют в гольф в хорошую погоду",
-  "textMeaningTranslate": "Гольф - это спорт с клюшками и маленьким белым шариком",
+  "textExampleTranslate": "В хорошую погоду люди играют в гольф",
+  "textMeaningTranslate": "Гольф - это вид спорта с клюшками и маленьким белым шариком",
   "wordTranslate": "гольф"
 },{
   "_id": {
@@ -1705,9 +1705,9 @@
   "textExample": "I will <b>increase</b> my score if I study for the test.",
   "transcription": "[inkríːs]",
   "__v": 0,
-  "textExampleTranslate": "Я увеличу свой счет, если я буду готовиться к экзамену",
-  "textMeaningTranslate": "Увеличить значит сделать что-то большее",
-  "wordTranslate": "увеличение"
+  "textExampleTranslate": "Я смогу увеличить свой балл, если я буду готовиться к экзамену",
+  "textMeaningTranslate": "Увеличивать значит сделать что-то больше",
+  "wordTranslate": "увеличивать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af4ff"
@@ -1723,7 +1723,7 @@
   "textExample": "My grandfather had a long <b>life</b>.",
   "transcription": "[laif]",
   "__v": 0,
-  "textExampleTranslate": "У моего деда была долгая жизнь",
+  "textExampleTranslate": "Мой дед прожил долгую жизнь",
   "textMeaningTranslate": "Жизнь - это время, когда человек жив",
   "wordTranslate": "жизнь"
 },{
@@ -1741,8 +1741,8 @@
   "textExample": "A marathon is 42.2 <b>kilometers</b>.",
   "transcription": "[kilάmətər]",
   "__v": 0,
-  "textExampleTranslate": "Марафон 42,2 километра",
-  "textMeaningTranslate": "Километр - это единица измерения, которая составляет 1000 метров",
+  "textExampleTranslate": "Дистанция марафона составляет 42,2 километра",
+  "textMeaningTranslate": "Километр - это единица измерения равная 1000 метров",
   "wordTranslate": "километр"
 },{
   "_id": {
@@ -1759,9 +1759,9 @@
   "textExample": "He <b>often</b> goes to bed early during the week.",
   "transcription": "[ɔ́ːfən]",
   "__v": 0,
-  "textExampleTranslate": "Он часто ложится спать рано в течение недели",
-  "textMeaningTranslate": "Часто бывает, когда что-то случается много раз",
-  "wordTranslate": "довольно часто"
+  "textExampleTranslate": "Посреди недели ему часто приходится рано ложиться спать",
+  "textMeaningTranslate": "Часто - это когда что-то случается много раз",
+  "wordTranslate": "часто (много раз)"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af504"
@@ -1795,8 +1795,8 @@
   "textExample": "We have <b>plenty</b> of fruit, so help yourself.",
   "transcription": "[plenti]",
   "__v": 0,
-  "textExampleTranslate": "У нас много фруктов, так что помогите себе",
-  "textMeaningTranslate": "Если у вас много чего-то, то этого много",
+  "textExampleTranslate": "У нас много фруктов, так что угощайтесь",
+  "textMeaningTranslate": "Если у вас чего-то много, значит у вас этого в избытке",
   "wordTranslate": "много"
 },{
   "_id": {
@@ -1814,7 +1814,7 @@
   "transcription": "[weit]",
   "__v": 0,
   "textExampleTranslate": "Я набрал вес, потому что я ел много пиццы",
-  "textMeaningTranslate": "Вес - это то, как тяжело что-то или кто-то",
+  "textMeaningTranslate": "Вес - это то, насколько тяжел кто-то или что-то",
   "wordTranslate": "вес"
 },{
   "_id": {
