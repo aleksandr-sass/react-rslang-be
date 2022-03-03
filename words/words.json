@@ -1813,8 +1813,8 @@
   "textExample": "They moved <b>apart</b> and then came back together.",
   "transcription": "[əpάːrt]",
   "__v": 0,
-  "textExampleTranslate": "Они раздвинулись, а затем вернулись вместе",
-  "textMeaningTranslate": "Когда люди или вещи разлучены, они не рядом друг с другом",
+  "textExampleTranslate": "Они разошлись, а затем воссоединились",
+  "textMeaningTranslate": "Когда люди или вещи находятся отдельно друг от друга, они не рядом друг с другом",
   "wordTranslate": "отдельно"
 },{
   "_id": {
@@ -1849,7 +1849,7 @@
   "textExample": "Since you already know English, after learning French you’ll be <b>bilingual</b>.",
   "transcription": "[bailíŋgwəl]",
   "__v": 0,
-  "textExampleTranslate": "Так как вы уже знаете английский, изучая французский, вы станете двуязычным",
+  "textExampleTranslate": "Если вы уже знаете английский, то, изучив французский, вы уже сможете говорить на двух языках",
   "textMeaningTranslate": "Двуязычный человек может говорить на двух языках",
   "wordTranslate": "двуязычный"
 },{
@@ -1867,8 +1867,8 @@
   "textExample": "I was <b>completely</b> wrong.",
   "transcription": "[kəmplíːtli]",
   "__v": 0,
-  "textExampleTranslate": "Я был совершенно неправ",
-  "textMeaningTranslate": "Что-то совершенно другое, очень, очень отличается от ранее",
+  "textExampleTranslate": "Я был полностью неправ",
+  "textMeaningTranslate": "Если что-то полностью другое, то это очень сильно отличается от того, что было ранее",
   "wordTranslate": "полностью"
 },{
   "_id": {
@@ -1885,9 +1885,9 @@
   "textExample": "Helen <b>dashed</b> up the stairs so she wouldn’t be late for her appointment.",
   "transcription": "[dæʃ]",
   "__v": 0,
-  "textExampleTranslate": "Хелен бросилась вверх по лестнице, чтобы она не опоздала на встречу",
-  "textMeaningTranslate": "Бежать - значит бегать или двигаться быстро",
-  "wordTranslate": "тире"
+  "textExampleTranslate": "Хелен помчалась вверх по лестнице, чтобы не опоздать на встречу",
+  "textMeaningTranslate": "Мчаться - значит бегать или двигаться быстро",
+  "wordTranslate": "мчаться"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af509"
@@ -1922,8 +1922,8 @@
   "transcription": "[fǽʃənəbl]",
   "__v": 0,
   "textExampleTranslate": "Очень модно носить шляпу",
-  "textMeaningTranslate": "Что-то модное - это то, что люди любят носить и делать сейчас",
-  "wordTranslate": "модно"
+  "textMeaningTranslate": "Если что-то является модным, то люди любят это носить и делать сейчас",
+  "wordTranslate": "модный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af50b"
@@ -1940,8 +1940,8 @@
   "transcription": "[fάrən]",
   "__v": 0,
   "textExampleTranslate": "Он много путешествовал по зарубежным странам",
-  "textMeaningTranslate": "Что-то чужое - это то, к чему мы не привыкли",
-  "wordTranslate": "иностранные"
+  "textMeaningTranslate": "Если что-то является иностранным, то это то, к чему мы не привыкли",
+  "wordTranslate": "иностранный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af50c"
@@ -1958,8 +1958,8 @@
   "transcription": "[gʌlf]",
   "__v": 0,
   "textExampleTranslate": "Между Джеймсом и Тони была пропасть с тех пор, как умерли их родители",
-  "textMeaningTranslate": "Пропасть - это пропасть между людьми, которые не понимают друг друга",
-  "wordTranslate": "залив"
+  "textMeaningTranslate": "Пропасть - это разыв между людьми, которые не понимают друг друга",
+  "wordTranslate": "пропасть"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af50d"
@@ -1993,9 +1993,9 @@
   "textExample": "We need to take care of the <b>natural</b> world.",
   "transcription": "[nǽʧərəl]",
   "__v": 0,
-  "textExampleTranslate": "Нам нужно заботиться о мире природы",
-  "textMeaningTranslate": "Вещи, которые естественны, не сделаны людьми",
-  "wordTranslate": "естественный"
+  "textExampleTranslate": "Нам нужно заботиться о природном мире",
+  "textMeaningTranslate": "Вещи природного происхождения не сделаны людьми",
+  "wordTranslate": "природный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af50f"
@@ -2012,8 +2012,8 @@
   "transcription": "[náuədèiz]",
   "__v": 0,
   "textExampleTranslate": "В настоящее время не так много людей курят",
-  "textMeaningTranslate": "В настоящее время значит в настоящее время",
-  "wordTranslate": "в наше время"
+  "textMeaningTranslate": "В настоящее время значит сейчас",
+  "wordTranslate": "в настоящее время"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af510"
@@ -2065,9 +2065,9 @@
   "textExample": "We cannot take back what has been <b>spoken</b>.",
   "transcription": "[spóukən]",
   "__v": 0,
-  "textExampleTranslate": "Мы не можем забрать то, что было сказано",
+  "textExampleTranslate": "Мы не можем отозвать назад то, что было сказано",
   "textMeaningTranslate": "Разговорный язык - это то, что мы говорим",
-  "wordTranslate": "знание"
+  "wordTranslate": "разговорный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af513"
@@ -2101,9 +2101,9 @@
   "textExample": "He didn’t appear at all <b>surprised</b> when he read the article.",
   "transcription": "[sərpráizd]",
   "__v": 0,
-  "textExampleTranslate": "Он совсем не удивился, когда прочитал статью",
-  "textMeaningTranslate": "Вы удивляетесь, когда происходит что-то неожиданное",
-  "wordTranslate": "удивил"
+  "textExampleTranslate": "Он совсем не выглядел удивленным, когда прочитал статью",
+  "textMeaningTranslate": "Вы будете удивленным, когда произойдет что-то неожиданное",
+  "wordTranslate": "удивленный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af515"
@@ -2121,7 +2121,7 @@
   "__v": 0,
   "textExampleTranslate": "Я чувствовал себя очень напряженным, ожидая результатов голосования",
   "textMeaningTranslate": "Когда вы напряжены, вы не чувствуете себя комфортно и чувствуете себя несчастным",
-  "wordTranslate": "время"
+  "wordTranslate": "напряженныйы"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af516"
@@ -2155,9 +2155,9 @@
   "textExample": "I asked him about his mother’s health, but he was very <b>vague</b> about it.",
   "transcription": "[veig]",
   "__v": 0,
-  "textExampleTranslate": "Я спросил его о здоровье его матери, но он был очень смутным об этом",
-  "textMeaningTranslate": "Если что-то расплывчато, это не ясно и дает очень мало деталей",
-  "wordTranslate": "расплывчатый"
+  "textExampleTranslate": "Я спросил его о здоровье его матери, но его ответ был очень смутным",
+  "textMeaningTranslate": "Если что-то является смутным, то это не ясно и дает очень мало деталей",
+  "wordTranslate": "смутный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af518"
