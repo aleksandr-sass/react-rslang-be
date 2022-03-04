@@ -2193,7 +2193,7 @@
   "__v": 0,
   "textExampleTranslate": "Он объявил всем свою новую идею для компании",
   "textMeaningTranslate": "Объявить что-то значит сделать это известным",
-  "wordTranslate": "объявить"
+  "wordTranslate": "объявлять"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af51a"
@@ -2210,8 +2210,8 @@
   "transcription": "[bisáid]",
   "__v": 0,
   "textExampleTranslate": "Два брата стояли рядом друг с другом",
-  "textMeaningTranslate": "Кто-то или что-то рядом с тобой рядом с тобой",
-  "wordTranslate": "ряд"
+  "textMeaningTranslate": "Если кто-то или что-то рядом с тобой, то это значит, что кто-то или что-то находится близко",
+  "wordTranslate": "рядом"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af51b"
@@ -2227,8 +2227,8 @@
   "textExample": "It was a <b>challenge</b> to climb to the top of the mountain.",
   "transcription": "[tʃǽlindʒ]",
   "__v": 0,
-  "textExampleTranslate": "Это была проблема - подняться на вершину горы",
-  "textMeaningTranslate": "Задача - это нечто сложное",
+  "textExampleTranslate": "Для нас подняться на вершину горы было сродни вызову",
+  "textMeaningTranslate": "Вызов - это нечто сложное",
   "wordTranslate": "вызов"
 },{
   "_id": {
@@ -2247,7 +2247,7 @@
   "__v": 0,
   "textExampleTranslate": "Он утверждал, что знает, почему законы страны были слабыми",
   "textMeaningTranslate": "Утверждать - значит говорить, что что-то верно",
-  "wordTranslate": "запрос"
+  "wordTranslate": "утверждать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af51d"
@@ -2263,8 +2263,8 @@
   "textExample": "The patient’s <b>condition</b> was very good.",
   "transcription": "[kəndíʃən]",
   "__v": 0,
-  "textExampleTranslate": "Состояние пациента было очень хорошим",
-  "textMeaningTranslate": "Состояние кого-то или чего-то - это состояние, в котором они находятся",
+  "textExampleTranslate": "Состояние здоровья пациента было очень хорошим",
+  "textMeaningTranslate": "Состояние здоровья кого-то - это состояние, в котором они находятся",
   "wordTranslate": "состояние"
 },{
   "_id": {
@@ -2281,8 +2281,8 @@
   "textExample": "We decided to <b>contribute</b> money to the new hospital.",
   "transcription": "[kəntríbjuːt]",
   "__v": 0,
-  "textExampleTranslate": "Мы решили внести деньги в новую больницу",
-  "textMeaningTranslate": "Помогать чему-то - значит делать что-то, чтобы сделать это успешным",
+  "textExampleTranslate": "Мы решили сделать свой денежный вклад в строительство новой больницы",
+  "textMeaningTranslate": "Делать вклад - значит делать что-то, чтобы сделать это успешным",
   "wordTranslate": "делать вклад"
 },{
   "_id": {
@@ -2300,7 +2300,7 @@
   "transcription": "[dífərəns]",
   "__v": 0,
   "textExampleTranslate": "Самая большая разница между птицами - это цвет их перьев",
-  "textMeaningTranslate": "Разница - это то, что что-то не так, как другие",
+  "textMeaningTranslate": "Разница - это то, в чем одна вещь отличается от другой",
   "wordTranslate": "разница"
 },{
   "_id": {
@@ -2318,7 +2318,7 @@
   "transcription": "[diváid]",
   "__v": 0,
   "textExampleTranslate": "Мы разделили пиццу",
-  "textMeaningTranslate": "Делить что-то - значит делить это на более мелкие части",
+  "textMeaningTranslate": "Делить что-то - значит разбивать это на более мелкие части",
   "wordTranslate": "делить"
 },{
   "_id": {
@@ -2335,8 +2335,8 @@
   "textExample": "The wizard was an <b>expert</b> at magic.",
   "transcription": "[ékspəːrt]",
   "__v": 0,
-  "textExampleTranslate": "Волшебник был экспертом в магии",
-  "textMeaningTranslate": "Эксперт - это тот, кто очень хорошо делает что-то",
+  "textExampleTranslate": "Волшебник был экспертом в области магии",
+  "textMeaningTranslate": "Эксперт - это тот, кто очень хорошо разбирается в своей сфере деятельности",
   "wordTranslate": "эксперт"
 },{
   "_id": {
@@ -2353,9 +2353,9 @@
   "textExample": "The Eiffel Tower in Paris is very <b>famous</b>.",
   "transcription": "[féiməs]",
   "__v": 0,
-  "textExampleTranslate": "Эйфелева башня в Париже очень известна",
-  "textMeaningTranslate": "Известный человек или вещь хорошо известна",
-  "wordTranslate": "известный"
+  "textExampleTranslate": "Эйфелева башня в Париже очень знаменита",
+  "textMeaningTranslate": "Знаменитый человек или вещь хорошо известны",
+  "wordTranslate": "знаменитый"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af523"
@@ -2372,7 +2372,7 @@
   "transcription": "[fɔːrs]",
   "__v": 0,
   "textExampleTranslate": "Он использовал все свои силы, чтобы попытаться открыть дверь",
-  "textMeaningTranslate": "Сила - это сила или сила человека",
+  "textMeaningTranslate": "Сила - это мощь человека",
   "wordTranslate": "сила"
 },{
   "_id": {
@@ -2390,7 +2390,7 @@
   "transcription": "[hɑːrm]",
   "__v": 0,
   "textExampleTranslate": "Горячий утюг может причинить большой вред, если вы не будете осторожны",
-  "textMeaningTranslate": "Причинить вред - значит причинить кому-то боль или что-то повредить",
+  "textMeaningTranslate": "Причинить вред - значит причинить кому-то боль или повредить что-то",
   "wordTranslate": "вред"
 },{
   "_id": {
@@ -2408,8 +2408,8 @@
   "transcription": "[lei]",
   "__v": 0,
   "textExampleTranslate": "Не кладите носки на пол",
-  "textMeaningTranslate": "Уложить означает положить или поместить в горизонтальное или плоское положение",
-  "wordTranslate": "лежал"
+  "textMeaningTranslate": "Класть означает положить или разместить в горизонтальном положении",
+  "wordTranslate": "класть"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af526"
@@ -2443,7 +2443,7 @@
   "textExample": "The <b>prince</b> and the princess were married.",
   "transcription": "[prins]",
   "__v": 0,
-  "textExampleTranslate": "Принц и принцесса были женаты",
+  "textExampleTranslate": "Принц и принцесса поженились",
   "textMeaningTranslate": "Принц - сын короля",
   "wordTranslate": "принц"
 },{
@@ -2463,7 +2463,7 @@
   "__v": 0,
   "textExampleTranslate": "Пожарные защищают нас от пожаров",
   "textMeaningTranslate": "Защищать кого-то - значит не дать им пострадать",
-  "wordTranslate": "защита"
+  "wordTranslate": "защищать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af529"
@@ -2480,8 +2480,8 @@
   "transcription": "[sens]",
   "__v": 0,
   "textExampleTranslate": "Я чувствовал, что он смотрит на меня",
-  "textMeaningTranslate": "Чувствовать что-то значит знать об этом, не сказав ничего",
-  "wordTranslate": "смысл"
+  "textMeaningTranslate": "Чувствовать что-то значит знать об этом, не будучи осведомленным",
+  "wordTranslate": "чувствовать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52a"
@@ -2498,8 +2498,8 @@
   "transcription": "[sʌ́dn]",
   "__v": 0,
   "textExampleTranslate": "Он почувствовал внезапную боль в груди",
-  "textMeaningTranslate": "Когда что-то внезапно, это происходит очень быстро",
-  "wordTranslate": "внезапное"
+  "textMeaningTranslate": "Когда что-то случается внезапно, то это происходит очень быстро",
+  "wordTranslate": "внезапный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52b"
@@ -2516,8 +2516,8 @@
   "transcription": "[ðɛ́əːrfɔ̀ːr]",
   "__v": 0,
   "textExampleTranslate": "Он толстый. Поэтому ему следует сесть на диету",
-  "textMeaningTranslate": "Поэтому значит по этой причине",
-  "wordTranslate": "следовательно"
+  "textMeaningTranslate": "Поэтому - значит по этой причине",
+  "wordTranslate": "поэтому"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52c"
@@ -2533,9 +2533,9 @@
   "textExample": "I <b>accepted</b> the girl’s very nice gift.",
   "transcription": "[æksépt]",
   "__v": 0,
-  "textExampleTranslate": "Я принял очень хороший подарок девушки",
-  "textMeaningTranslate": "Принять то, что предлагается, значит принять",
-  "wordTranslate": "принять"
+  "textExampleTranslate": "Я принял очень хороший подарок от своей девушки",
+  "textMeaningTranslate": "Принять то, что предлагается, значит взять это",
+  "wordTranslate": "принимать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52d"
@@ -2551,9 +2551,9 @@
   "textExample": "Please <b>arrange</b> the words in order from A to Z.",
   "transcription": "[əréindʒ]",
   "__v": 0,
-  "textExampleTranslate": "Пожалуйста, расположите слова в порядке от А до Я",
-  "textMeaningTranslate": "Расставить вещи - значит поставить их в нужное место",
-  "wordTranslate": "организовать"
+  "textExampleTranslate": "Пожалуйста, расположите слова в алфавитном порядке",
+  "textMeaningTranslate": "Расставлять вещи - значит ставить их в соответствующие места",
+  "wordTranslate": "расставлять"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52e"
@@ -2569,9 +2569,9 @@
   "textExample": "My sister and I <b>attend</b> the same school.",
   "transcription": "[əténd]",
   "__v": 0,
-  "textExampleTranslate": "Мы с сестрой учимся в одной школе",
-  "textMeaningTranslate": "Побывать на чем-то - значит пойти на это",
-  "wordTranslate": "присутствовать"
+  "textExampleTranslate": "Мы с сестрой посещаем одну и ту же школу",
+  "textMeaningTranslate": "Посещать что-то - значит пойти на туда",
+  "wordTranslate": "посещать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af52f"
@@ -2589,7 +2589,7 @@
   "__v": 0,
   "textExampleTranslate": "Меня преследовала собака",
   "textMeaningTranslate": "Вы преследуете людей, когда бежите за ними и пытаетесь поймать их",
-  "wordTranslate": "гнаться"
+  "wordTranslate": "преследовать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af530"
@@ -2623,9 +2623,9 @@
   "textExample": "My football coach will <b>encourage</b> us when we are losing.",
   "transcription": "[inkə́ːridʒ]",
   "__v": 0,
-  "textExampleTranslate": "Мой футбольный тренер будет воодушевлять нас, когда мы проигрываем",
-  "textMeaningTranslate": "Воодушевлять людей - значит заставлять их хотеть что-то делать",
-  "wordTranslate": "поощрять"
+  "textExampleTranslate": "Я знаю, что мой футбольный тренер будет нас подбадривать, если мы будем проигрывать",
+  "textMeaningTranslate": "Ободрять людей - значит воодушевлять их делать что-то",
+  "wordTranslate": "ободрять"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af532"
@@ -2642,8 +2642,8 @@
   "transcription": "[fəmíljər]",
   "__v": 0,
   "textExampleTranslate": "Два друга были очень знакомы друг с другом",
-  "textMeaningTranslate": "Люди или вещи, которые вам знакомы, это те, кого вы хорошо знаете",
-  "wordTranslate": "знакомые"
+  "textMeaningTranslate": "Близкие вам люди (или вещи), это те, которых (или которые) вы хорошо знаете",
+  "wordTranslate": "близкий"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af533"
@@ -2660,8 +2660,8 @@
   "transcription": "[græb]",
   "__v": 0,
   "textExampleTranslate": "Я схватил грушу с дерева",
-  "textMeaningTranslate": "Захватить - значит схватить кого-то или что-то внезапно",
-  "wordTranslate": "захват"
+  "textMeaningTranslate": "Хватать - значит взять кого-то или что-то внезапно",
+  "wordTranslate": "хватать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af534"
@@ -2677,9 +2677,9 @@
   "textExample": "I drew a picture of my family, and my mother <b>hung</b> it on the wall.",
   "transcription": "[hæŋ]",
   "__v": 0,
-  "textExampleTranslate": "Я нарисовал картину своей семьи, а мама повесила ее на стену",
-  "textMeaningTranslate": "Повесить что-то значит держать его над землей",
-  "wordTranslate": "повесить"
+  "textExampleTranslate": "Я изобразил свою семью на рисунке, а мама повесила его на стену",
+  "textMeaningTranslate": "Вешать что-то - значит поместить это над полом",
+  "wordTranslate": "вешать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af535"
@@ -2695,9 +2695,9 @@
   "textExample": "At work, my father drives a <b>huge</b> truck.",
   "transcription": "[hjuːdʒ]",
   "__v": 0,
-  "textExampleTranslate": "На работе мой отец водит огромный грузовик",
-  "textMeaningTranslate": "Если что-то огромное, оно очень большое",
-  "wordTranslate": "огромный"
+  "textExampleTranslate": "На работе мой отец водит гигантский грузовик",
+  "textMeaningTranslate": "Если что-то гигантское, оно очень большое",
+  "wordTranslate": "гигантский"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af536"
@@ -2714,8 +2714,8 @@
   "transcription": "[nésəsèri]",
   "__v": 0,
   "textExampleTranslate": "Паспорт необходим, если вы путешествуете в другие страны",
-  "textMeaningTranslate": "Если что-то нужно, ты должен это сделать",
-  "wordTranslate": "нужно"
+  "textMeaningTranslate": "Если что-то является необходимым, то это нужно сделать",
+  "wordTranslate": "необходимый"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af538"
@@ -2731,9 +2731,9 @@
   "textExample": "My <b>pattern</b> of brushing my teeth is the same as most people’s.",
   "transcription": "[pǽtərn]",
   "__v": 0,
-  "textExampleTranslate": "Мой порядок чистки зубов такой же, как у большинства людей",
-  "textMeaningTranslate": "Шаблон - это способ, которым что-то делается или организовано",
-  "wordTranslate": "шаблон"
+  "textExampleTranslate": "Мой принцип (способ) чистки зубов такой же, как у большинства людей",
+  "textMeaningTranslate": "Принцип - это способ, которым что-то делается или организовано",
+  "wordTranslate": "принцип"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af537"
@@ -2750,8 +2750,8 @@
   "transcription": "[prəpóuz]",
   "__v": 0,
   "textExampleTranslate": "Моя бабушка предложила сфотографироваться с Санта",
-  "textMeaningTranslate": "Предложить что-то - значит сказать, что это должно быть сделано",
-  "wordTranslate": "предложить"
+  "textMeaningTranslate": "Предлагать что-то - значит сказать о том, что было бы хорошо это сделать",
+  "wordTranslate": "предлагать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af539"
@@ -2786,8 +2786,8 @@
   "transcription": "[rilíːs]",
   "__v": 0,
   "textExampleTranslate": "Она выпустила птицу из рук",
-  "textMeaningTranslate": "Выпустить что-то - значит перестать держать это",
-  "wordTranslate": "релиз"
+  "textMeaningTranslate": "Выпускать что-то - значит перестать держать это",
+  "wordTranslate": "выпускать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af53b"
@@ -2805,7 +2805,7 @@
   "__v": 0,
   "textExampleTranslate": "Мы требуем, чтобы преподаватели имели высшее образование",
   "textMeaningTranslate": "Требовать чего-то - значит говорить, что это необходимо",
-  "wordTranslate": "требуют"
+  "wordTranslate": "требовать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af53d"
@@ -2822,8 +2822,8 @@
   "transcription": "[sǽtisfàid]",
   "__v": 0,
   "textExampleTranslate": "Я очень доволен вашей работой",
-  "textMeaningTranslate": "Вы удовлетворены, когда у вас есть то, что вы хотели",
-  "wordTranslate": "доволен"
+  "textMeaningTranslate": "Вы довольны, когда у вас есть то, что вам нужно",
+  "wordTranslate": "довольный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af53c"
@@ -2840,7 +2840,7 @@
   "transcription": "[síŋgəl]",
   "__v": 0,
   "textExampleTranslate": "У меня в руке один ключ",
-  "textMeaningTranslate": "Если что-то одно, то есть только одно",
+  "textMeaningTranslate": "Если что-то одно, то существует в единственном экземпляре",
   "wordTranslate": "один"
 },{
   "_id": {
@@ -2857,9 +2857,9 @@
   "textExample": "It is easy to <b>tear</b> paper.",
   "transcription": "[teər]",
   "__v": 0,
-  "textExampleTranslate": "Бумагу легко порвать",
-  "textMeaningTranslate": "Разорвать что-то - значит разорвать это на части",
-  "wordTranslate": "слеза"
+  "textExampleTranslate": "Бумагу легко разорвать",
+  "textMeaningTranslate": "Разрывать что-то - значит разделить это",
+  "wordTranslate": "разрывать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af53f"
@@ -2911,8 +2911,8 @@
   "textExample": "My father takes the <b>bus</b> to work.",
   "transcription": "[bʌs]",
   "__v": 0,
-  "textExampleTranslate": "Мой отец садится на автобус на работу",
-  "textMeaningTranslate": "Автобус - это большой транспорт, по которому люди едут",
+  "textExampleTranslate": "Мой отец садится в автобус, чтобы добраться до места работы",
+  "textMeaningTranslate": "Автобус - это большое транспортное средство, на котором люди могут передвигаться",
   "wordTranslate": "автобус"
 },{
   "_id": {
@@ -2929,8 +2929,8 @@
   "textExample": "This <b>cat</b> is playing with a ball.",
   "transcription": "[kæt]",
   "__v": 0,
-  "textExampleTranslate": "Этот кот играет с мячом",
-  "textMeaningTranslate": "Кошка - это маленькое животное, связанное со львами и тиграми, которое содержится как домашнее животное",
+  "textExampleTranslate": "Этот кошка играет с мячом",
+  "textMeaningTranslate": "Кошка - это небольшое животное, родственное львам и тиграм, которое держат в качестве домашнего питомца",
   "wordTranslate": "кошка"
 },{
   "_id": {
@@ -2965,9 +2965,9 @@
   "textExample": "My grandfather <b>depends</b> on a cane when he walks.",
   "transcription": "[dipénd]",
   "__v": 0,
-  "textExampleTranslate": "Мой дедушка зависит от трости, когда он гуляет",
-  "textMeaningTranslate": "Чтобы зависеть от чего-то, нужно нуждаться в поддержке или помощи",
-  "wordTranslate": "зависит"
+  "textExampleTranslate": "Моему дедушке нужна трость, чтобы передвигаться",
+  "textMeaningTranslate": "Зависеть от чего-то - значит нуждаться в этом в целях получения поддержки/помощи",
+  "wordTranslate": "зависеть"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af545"
@@ -2983,8 +2983,8 @@
   "textExample": "This woman’s best friend is her <b>dog</b>.",
   "transcription": "[dɔːg]",
   "__v": 0,
-  "textExampleTranslate": "Лучший друг этой женщины - ее собака",
-  "textMeaningTranslate": "Собака - это животное с четырьмя ногами и хвостом, которого держат в качестве домашнего животного или обучают работать",
+  "textExampleTranslate": "Собака - это её лучший друг",
+  "textMeaningTranslate": "Собака - это животное с четырьмя ногами и хвостом, которое держат в качестве домашнего животного либо обучают для выполнения особых задач",
   "wordTranslate": "собака"
 },{
   "_id": {
@@ -3001,8 +3001,8 @@
   "textExample": "Can you close the <b>door</b>, please?",
   "transcription": "[dɔːr]",
   "__v": 0,
-  "textExampleTranslate": "Можете ли вы закрыть дверь, пожалуйста?",
-  "textMeaningTranslate": "Дверь - это объект, который распахивается или скользит, открывается и закрывается",
+  "textExampleTranslate": "Не могли бы вы закрыть дверь, пожалуйста?",
+  "textMeaningTranslate": "Дверь - это объект, который можно открыть или же закрыть",
   "wordTranslate": "дверь"
 },{
   "_id": {
@@ -3019,8 +3019,8 @@
   "textExample": "Brian’s <b>friend</b> is very sad.",
   "transcription": "[frend]",
   "__v": 0,
-  "textExampleTranslate": "Друг Брайана очень грустный",
-  "textMeaningTranslate": "Друг - это тот, с кем знаком и любит проводить время",
+  "textExampleTranslate": "Друг Брайана очень невесел",
+  "textMeaningTranslate": "Друг - это тот, с кем мы знакомы и любим проводить время",
   "wordTranslate": "друг"
 },{
   "_id": {
@@ -3038,7 +3038,7 @@
   "transcription": "[hiər]",
   "__v": 0,
   "textExampleTranslate": "Мишель не слышит, что ты говоришь",
-  "textMeaningTranslate": "Слышать - значит осознавать звук через уши",
+  "textMeaningTranslate": "Слышать - значит воспринимать звук используя уши",
   "wordTranslate": "слышать"
 },{
   "_id": {
@@ -3056,8 +3056,8 @@
   "transcription": "[help]",
   "__v": 0,
   "textExampleTranslate": "Джейн может помочь Натану взобраться на скалу",
-  "textMeaningTranslate": "Помочь - сделать что-то, что облегчает кому-то еще",
-  "wordTranslate": "помогите"
+  "textMeaningTranslate": "Помогать - делать что-то, что облегчает нечто кому-то еще",
+  "wordTranslate": "помогать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af54a"
@@ -3074,7 +3074,7 @@
   "transcription": "[hɔːrs]",
   "__v": 0,
   "textExampleTranslate": "Я пошел на ферму и увидел лошадь",
-  "textMeaningTranslate": "Лошадь - это большое, сильное животное, которого люди едут и используют для того, чтобы тянуть тяжелые вещи",
+  "textMeaningTranslate": "Лошадь - это большое, сильное животное, на котором люди передвигаются и тянут тяжелые вещи",
   "wordTranslate": "лошадь"
 },{
   "_id": {
@@ -3110,7 +3110,7 @@
   "transcription": "[leg]",
   "__v": 0,
   "textExampleTranslate": "Она повредила ногу",
-  "textMeaningTranslate": "Нога - это часть тела, используемая для стояния и ходьбы",
+  "textMeaningTranslate": "Нога - это часть тела, используемая для того, чтобы стоять и ходить",
   "wordTranslate": "нога"
 },{
   "_id": {
@@ -3127,8 +3127,8 @@
   "textExample": "Tyler is a <b>medical</b> student studying to become a doctor.",
   "transcription": "[médikəl]",
   "__v": 0,
-  "textExampleTranslate": "Тайлер студент-медик учится на доктора",
-  "textMeaningTranslate": "Медицинские средства, связанные с лечением травмы или заболевания",
+  "textExampleTranslate": "Тайлер студент-медик, он учится на доктора",
+  "textMeaningTranslate": "Медицинский - это значит связанный с лечением травмы или заболевания",
   "wordTranslate": "медицинский"
 },{
   "_id": {
@@ -3146,8 +3146,8 @@
   "transcription": "[óupən]",
   "__v": 0,
   "textExampleTranslate": "Эми нравится открывать окно, чтобы впустить свежий воздух",
-  "textMeaningTranslate": "Открыть - это переместить что-то, чтобы отверстие не закрылось",
-  "wordTranslate": "открытый"
+  "textMeaningTranslate": "Открывать - это переместить что-то таким образом, чтобы отверстие не было закрыто",
+  "wordTranslate": "открывать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af54f"
@@ -3164,8 +3164,8 @@
   "transcription": "[pul]",
   "__v": 0,
   "textExampleTranslate": "Дети тянут веревку",
-  "textMeaningTranslate": "Тянуть - значит держаться за что-то, чтобы двигать это к тебе",
-  "wordTranslate": "вытащить"
+  "textMeaningTranslate": "Тянуть - значит держать что-то, чтобы двигать это в свою сторону",
+  "wordTranslate": "тянуть"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af550"
@@ -3181,8 +3181,8 @@
   "textExample": "Look at the <b>rabbit</b> in the park.",
   "transcription": "[rǽbit]",
   "__v": 0,
-  "textExampleTranslate": "Посмотри на кролика в парке",
-  "textMeaningTranslate": "Кролик - это маленькое животное с длинными ушами, которое живет в яме в земле",
+  "textExampleTranslate": "В парке вы можете посмотреть на кроликов",
+  "textMeaningTranslate": "Кролик - это маленькое животное с длинными ушами, которое живет в земляной норке",
   "wordTranslate": "кролик"
 },{
   "_id": {
@@ -3200,7 +3200,7 @@
   "transcription": "[skuːl]",
   "__v": 0,
   "textExampleTranslate": "Ученики учатся в школе",
-  "textMeaningTranslate": "Школа - это место, куда дети ходят учиться",
+  "textMeaningTranslate": "Школа - это место, куда дети ходят на учебу",
   "wordTranslate": "школа"
 },{
   "_id": {
@@ -3217,7 +3217,7 @@
   "textExample": "Steven does not want to <b>see</b> the scary picture.",
   "transcription": "[siː]",
   "__v": 0,
-  "textExampleTranslate": "Стивен не хочет видеть страшную картину",
+  "textExampleTranslate": "Стивен не хочет видеть ужасную картину",
   "textMeaningTranslate": "Видеть - значит использовать глаза, чтобы смотреть на что-то или кого-то",
   "wordTranslate": "видеть"
 },{
@@ -3236,8 +3236,8 @@
   "transcription": "[sə́ːrvis]",
   "__v": 0,
   "textExampleTranslate": "В этой кофейне отличный сервис",
-  "textMeaningTranslate": "Служба - это акт помощи или служения кому-либо",
-  "wordTranslate": "служба"
+  "textMeaningTranslate": "Сервис - это акт помощи или обслуживания кого-либо",
+  "wordTranslate": "сервис"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af554"
