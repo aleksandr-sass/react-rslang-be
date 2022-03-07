@@ -3253,9 +3253,9 @@
   "textExample": "Being able to fly is a <b>benefit</b> to birds.",
   "transcription": "[bénəfit]",
   "__v": 0,
-  "textExampleTranslate": "Умение летать приносит пользу птицам",
-  "textMeaningTranslate": "Благо это хорошо",
-  "wordTranslate": "выгода"
+  "textExampleTranslate": "Умение летать является преимуществом птиц",
+  "textMeaningTranslate": "Преимущество это хорошо",
+  "wordTranslate": "выгода, преимущество"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af559"
@@ -3273,7 +3273,7 @@
   "__v": 0,
   "textExampleTranslate": "Я уверен, что у зебр есть полоски",
   "textMeaningTranslate": "Если вы уверены в чем-то, вы знаете, что это правда",
-  "wordTranslate": "определенный"
+  "wordTranslate": "уверенный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af557"
@@ -3307,7 +3307,7 @@
   "textExample": "The medicine had a good <b>effect</b> on the boy.",
   "transcription": "[ifékt]",
   "__v": 0,
-  "textExampleTranslate": "Лекарство оказало хорошее влияние на мальчика",
+  "textExampleTranslate": "Лекарство оказало хороший эффект на здоровье мальчика",
   "textMeaningTranslate": "Эффект - это изменение, сделанное чем-то другим",
   "wordTranslate": "эффект"
 },{
@@ -3325,9 +3325,9 @@
   "textExample": "It is <b>essential</b> to have oxygen when you scuba dive.",
   "transcription": "[isénʃəl]",
   "__v": 0,
-  "textExampleTranslate": "Крайне важно иметь кислород, когда вы погружаетесь с аквалангом",
-  "textMeaningTranslate": "Если что-то важно, это очень важно и необходимо",
-  "wordTranslate": "существенный"
+  "textExampleTranslate": "Когда вы погружаетесь с аквалангом, то кислородный баллон является неотъемлемой частью вашего снаряжения",
+  "textMeaningTranslate": "Если что-то является неотъемлемым, то это является очень важным и необходимым",
+  "wordTranslate": "неотъемлемый"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af555"
@@ -3343,8 +3343,8 @@
   "textExample": "It’s <b>far</b> from the east coast to the west coast of America.",
   "transcription": "[fɑːr]",
   "__v": 0,
-  "textExampleTranslate": "Это далеко от восточного побережья до западного побережья Америки",
-  "textMeaningTranslate": "Если что-то далеко, это не близко",
+  "textExampleTranslate": "Восточное и западное побережья Америки находятся на значительном расстоянии друг от друга",
+  "textMeaningTranslate": "Если что-то далеко, то это не близко",
   "wordTranslate": "далеко"
 },{
   "_id": {
@@ -3361,9 +3361,9 @@
   "textExample": "My mom always helps me to <b>focus</b> on my school work.",
   "transcription": "[fóukəs]",
   "__v": 0,
-  "textExampleTranslate": "Моя мама всегда помогает мне сосредоточиться на школьной работе",
-  "textMeaningTranslate": "Сосредоточиться на чем-то - значит думать об этом и обращать на это внимание",
-  "wordTranslate": "фокус"
+  "textExampleTranslate": "Моя мама всегда помогает мне сконцентрироваться на заданиях, заданных в школе",
+  "textMeaningTranslate": "Концентрироваться на чем-то - значит думать об этом и обращать на это внимание",
+  "wordTranslate": "концентрироваться"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af55d"
@@ -3379,9 +3379,9 @@
   "textExample": "The <b>function</b> of a flashlight is to help you see in the dark.",
   "transcription": "[fʌ́ŋkʃən]",
   "__v": 0,
-  "textExampleTranslate": "Функция фонарика состоит в том, чтобы помочь вам видеть в темноте",
-  "textMeaningTranslate": "Функция чего-то - это то, что он делает",
-  "wordTranslate": "функция"
+  "textExampleTranslate": "Назначение фонарика состоит в том, чтобы помочь вам видеть в темноте",
+  "textMeaningTranslate": "Назначение какого-либо предмета - это то, какую функцию он выполняет",
+  "wordTranslate": "Назначение"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af55c"
@@ -3398,7 +3398,7 @@
   "transcription": "[græs]",
   "__v": 0,
   "textExampleTranslate": "Трава выглядела такой мягкой и зеленой",
-  "textMeaningTranslate": "Трава - это зеленые листья, которые покрывают землю",
+  "textMeaningTranslate": "Трава - это зелень, которая покрывает землю",
   "wordTranslate": "трава"
 },{
   "_id": {
@@ -3415,9 +3415,9 @@
   "textExample": "The police officer will <b>guard</b> us from any harm.",
   "transcription": "[gɑːrd]",
   "__v": 0,
-  "textExampleTranslate": "Полицейский будет охранять нас от любого вреда",
-  "textMeaningTranslate": "Охранять что-то значит заботиться об этом",
-  "wordTranslate": "охранник"
+  "textExampleTranslate": "Полицейский будет защищать нас от любого вреда",
+  "textMeaningTranslate": "Защищать что-то значит заботиться об этом",
+  "wordTranslate": "защищать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af55e"
@@ -3433,9 +3433,9 @@
   "textExample": "The <b>image</b> of her eye was very clear.",
   "transcription": "[ímidʒ]",
   "__v": 0,
-  "textExampleTranslate": "Образ ее глаза был очень четким",
-  "textMeaningTranslate": "Образ чего-то есть изображение этого",
-  "wordTranslate": "образ"
+  "textExampleTranslate": "Изображение ее глаза был очень четким",
+  "textMeaningTranslate": "Изображение чего-то - это рисунок",
+  "wordTranslate": "изображение"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af55f"
@@ -3453,7 +3453,7 @@
   "__v": 0,
   "textExampleTranslate": "Немедленный ответ пришел из пиццерии",
   "textMeaningTranslate": "Если что-то происходит немедленно, это происходит быстро",
-  "wordTranslate": "немедленно"
+  "wordTranslate": "немедленный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af560"
@@ -3506,8 +3506,8 @@
   "transcription": "[riméin]",
   "__v": 0,
   "textExampleTranslate": "Моя сестра должна была оставаться дома, так как она была больна",
-  "textMeaningTranslate": "Оставаться где-то - значит оставаться там",
-  "wordTranslate": "остаются"
+  "textMeaningTranslate": "Оставаться где-то - значит пребывать там",
+  "wordTranslate": "оставаться"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af561"
@@ -3525,7 +3525,7 @@
   "__v": 0,
   "textExampleTranslate": "Я отдыхал на диване после работы",
   "textMeaningTranslate": "Отдыхать - значит перестать быть активным, пока тело восстанавливает силы",
-  "wordTranslate": "остаток"
+  "wordTranslate": "отдыхать"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af564"
@@ -3542,8 +3542,8 @@
   "transcription": "[sépərèit]",
   "__v": 0,
   "textExampleTranslate": "Нью-Йорк и Лос-Анджелес находятся в двух разных частях Америки",
-  "textMeaningTranslate": "Если две вещи разные, они не вместе",
-  "wordTranslate": "отделить"
+  "textMeaningTranslate": "Если две вещи находятся отдельно, они не вместе",
+  "wordTranslate": "отдельный"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af565"
@@ -3560,8 +3560,8 @@
   "transcription": "[sait]",
   "__v": 0,
   "textExampleTranslate": "Мы нашли идеальное место для нашего пикника",
-  "textMeaningTranslate": "Сайт - это место",
-  "wordTranslate": "сайт"
+  "textMeaningTranslate": "Место - это некое пространство",
+  "wordTranslate": "место"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af568"
@@ -3578,7 +3578,7 @@
   "transcription": "[teil]",
   "__v": 0,
   "textExampleTranslate": "Наша собака виляет хвостом, когда она счастлива",
-  "textMeaningTranslate": "Хвост - это часть тела животного, которая торчит из его спины или спины",
+  "textMeaningTranslate": "Хвост - это часть тела животного, которая торчит из его спины",
   "wordTranslate": "хвост"
 },{
   "_id": {
@@ -3595,9 +3595,9 @@
   "textExample": "I have <b>trouble</b> working with my boss.",
   "transcription": "[trʌ́bəl]",
   "__v": 0,
-  "textExampleTranslate": "У меня проблемы с работой с моим боссом",
-  "textMeaningTranslate": "Проблема - это проблема или трудность",
-  "wordTranslate": "беда"
+  "textExampleTranslate": "У меня на работе неприятности с с моим боссом",
+  "textMeaningTranslate": "Неприятность - это проблема или трудность",
+  "wordTranslate": "неприятность"
 },{
   "_id": {
     "$oid": "5e9f5ee35eb9e72bc21af567"
